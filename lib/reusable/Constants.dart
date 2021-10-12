@@ -13,3 +13,5 @@ String email="";
 String displayName="";
 String photoUrl="";
 String role="Profesor";
+
+String urlServer = "";
